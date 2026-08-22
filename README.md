@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Gustavo Argentino
 
-<!--
-**GustavoArgentino/GustavoArgentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Development Student | ADS**
 
-Here are some ideas to get you started:
+🇧🇷 Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Software Development student** passionate about technology, problem solving, and building practical solutions.
+
+My main interests are **backend development, databases, software architecture, and system development**. I enjoy learning through real projects and constantly improving my technical skills.
+
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" />
+</p>
+
+### Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
+</p>
+
+### Frontend & Mobile
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" /> <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" /> <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" /> </p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
+</p>
+
+### Tools & Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA" />
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoArgentino&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoArgentino&layout=compact&theme=tokyonight" />
+</p>
