@@ -9,7 +9,7 @@ I'm a **Software Development student** passionate about technology, problem solv
 My main interests are **backend development, databases, software architecture, and system development**. I enjoy learning through real projects and constantly improving my technical skills.
 
 <p align="center">
-  <a href="[www.linkedin.com/in/gustavo-isaac-argentino](https://www.linkedin.com/in/gustavo-isaac-argentino/)">
+  <a href="https://www.linkedin.com/in/gustavo-isaac-argentino/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
