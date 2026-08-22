@@ -66,3 +66,14 @@ My main interests are **backend development, databases, software architecture, a
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoArgentino&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoArgentino&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoArgentino/GustavoArgentino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoArgentino/GustavoArgentino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoArgentino/GustavoArgentino/output/pacman-contribution-graph.svg">
+</picture>
+
+---
