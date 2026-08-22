@@ -9,7 +9,7 @@ I'm a **Software Development student** passionate about technology, problem solv
 My main interests are **backend development, databases, software architecture, and system development**. I enjoy learning through real projects and constantly improving my technical skills.
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/gustavo-isaac-argentino">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -72,7 +72,7 @@ My main interests are **backend development, databases, software architecture, a
 <!-- Pacman -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoArgentino/GustavoArgentino/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoArgentino/GustavoArgentino/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoArgentino/GustavoArgentino/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoArgentino/GustavoArgentino/output/pacman-contribution-graph.svg">
 </picture>
 
